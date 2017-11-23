@@ -1,0 +1,21 @@
+{
+  "name": "question_from_km",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "element-react": "^1.4.3",
+    "element-theme-default": "^1.4.10",
+    "react": "^16.1.1",
+    "react-cookie": "^2.1.1",
+    "react-dom": "^16.1.1",
+    "react-scripts": "1.0.17",
+    "universal-cookie": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

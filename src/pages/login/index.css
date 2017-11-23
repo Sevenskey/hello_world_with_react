@@ -1,0 +1,13 @@
+.input-area {
+    margin: 0 auto;
+    width: 20%;
+    min-width: 270px;
+    text-align: center;
+}
+.input-area input {
+    margin: 7px 0;
+}
+.input-btn-group {
+    text-align: center;
+    margin-top: 7px;
+}
